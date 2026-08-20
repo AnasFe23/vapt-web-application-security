@@ -7,7 +7,7 @@
 
 > **Course Module:** BAXZ 3613 — Hacking Techniques and Prevention  
 > **Faculty:** Faculty of Artificial Intelligence and Cyber Security, Universiti Teknikal Malaysia Melaka (UTeM)[cite: 2]  
-> **Lead Tester:** Anas Faozi Abdullah Al-Abi (Matric No: B032310870)[cite: 2]  
+> **Lead Tester:** Anas Faozi Abdullah Al-Abi [cite: 2]  
 > **Team Members:** Maged Saeed Ahmed Blashram, Ibrahim Khaled Abdullah Omar[cite: 2]
 
 ---
